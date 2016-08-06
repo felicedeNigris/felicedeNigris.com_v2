@@ -1,0 +1,51 @@
+@import 'https://fonts.googleapis.com/css?family=Arvo';
+@import 'https://fonts.googleapis.com/css?family=Poiret+One';
+body {
+  line-height: 1.5;
+  text-align: center;
+  background-color: #48CCB9;
+  height: 1080px; }
+
+.follow {
+  font-family: Poiret One, sans-serif;
+  font-size: 28px;
+  text-align: center;
+  color: #BEFF6D;
+  display: block;
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 100px;
+  max-width: 200px;
+  background-color: none;
+  padding: 10px;
+  z-index: 2;
+  border: 2px solid #BEFF6D; }
+
+.header {
+  max-width: 800px;
+  color: #FFE9E1;
+  font-size: 20px;
+  height: 200px;
+  position: relative;
+  display: inline-block;
+  transform: translateY(50%);
+  font-family: 'Arvo', serif;
+  text-shadow: #9a66fe 1px 1px, #9968fd 2px 2px, #9869fc 3px 3px, #976afc 4px 4px, #966bfb 5px 5px, #956dfa 6px 6px, #946ef9 7px 7px, #936ff8 8px 8px, #9271f7 9px 9px, #9172f6 10px 10px, #9073f5 11px 11px, #8f74f5 12px 12px, #8e76f4 13px 13px, #8c77f3 14px 14px, #8b78f2 15px 15px, #8a7af1 16px 16px, #897bf0 17px 17px, #887cef 18px 18px, #877dee 19px 19px, #867fee 20px 20px, #8580ed 21px 21px, #8481ec 22px 22px, #8383eb 23px 23px, #8284ea 24px 24px, #8185e9 25px 25px, #8086e8 26px 26px, #7f88e7 27px 27px, #7e89e7 28px 28px, #7d8ae6 29px 29px, #7c8ce5 30px 30px, #7b8de4 31px 31px, #7a8ee3 32px 32px, #798fe2 33px 33px, #7891e1 34px 34px, #7792e0 35px 35px, #7693e0 36px 36px, #7595df 37px 37px, #7496de 38px 38px, #7397dd 39px 39px, #7299dc 40px 40px, #709adb 41px 41px, #6f9bda 42px 42px, #6e9cd9 43px 43px, #6d9ed9 44px 44px, #6c9fd8 45px 45px, #6ba0d7 46px 46px, #6aa2d6 47px 47px, #69a3d5 48px 48px, #68a4d4 49px 49px, #67a5d3 50px 50px, #66a7d2 51px 51px, #65a8d2 52px 52px, #64a9d1 53px 53px, #63abd0 54px 54px, #62accf 55px 55px, #61adce 56px 56px, #60aecd 57px 57px, #5fb0cc 58px 58px, #5eb1cb 59px 59px, #5db2cb 60px 60px, #5cb4ca 61px 61px, #5bb5c9 62px 62px, #5ab6c8 63px 63px, #59b7c7 64px 64px, #58b9c6 65px 65px, #57bac5 66px 66px, #55bbc4 67px 67px, #54bdc4 68px 68px, #53bec3 69px 69px, #52bfc2 70px 70px, #51c0c1 71px 71px, #50c2c0 72px 72px, #4fc3bf 73px 73px, #4ec4be 74px 74px, #4dc6bd 75px 75px, #4cc7bd 76px 76px, #4bc8bc 77px 77px, #4ac9bb 78px 78px, #49cbba 79px 79px, #48ccb9 80px 80px, #9B65FF 0px 0px; }
+
+.outlets {
+  position: relative;
+  margin-top: 180px;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 20px; }
+  .outlets a {
+    position: relative;
+    text-decoration: none;
+    color: #FF5C65;
+    transition: all 0.6s cubic-bezier(0.26, 1, 0.82, 1.24);
+    bottom: -5px; }
+    .outlets a:hover {
+      color: #BEFF6D;
+      bottom: 5px;
+      transition: all 0.6s cubic-bezier(0.26, 1, 0.82, 1.24); }
