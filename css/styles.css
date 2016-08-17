@@ -10,7 +10,7 @@ body {
   font-family: Poiret One, sans-serif;
   font-size: 28px;
   text-align: center;
-  color: #BEFF6D;
+  color: #e3ff24;
   display: block;
   position: relative;
   margin-left: auto;
@@ -20,7 +20,7 @@ body {
   background-color: none;
   padding: 10px;
   z-index: 2;
-  border: 2px solid #BEFF6D; }
+  border: 2px solid #e3ff24; }
 
 .header {
   max-width: 800px;
@@ -46,6 +46,6 @@ body {
     transition: all 0.6s cubic-bezier(0.26, 1, 0.82, 1.24);
     bottom: -5px; }
     .outlets a:hover {
-      color: #BEFF6D;
+      color: #e3ff24;
       bottom: 5px;
       transition: all 0.6s cubic-bezier(0.26, 1, 0.82, 1.24); }
